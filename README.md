@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Anderson</h1>
-<h3 align="center">E estou em busca de uma oportunidade na área de Data Analytics ou Data Science.</h3>
+--<h3 align="center">👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andmonteiro&label=Profile%20views&color=0e75b6&style=flat" alt="andmonteiro" /> </p>
 
